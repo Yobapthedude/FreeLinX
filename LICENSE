@@ -1,24 +1,38 @@
-BSD 2-Clause License
+ƏMƏKDAŞ LİSENZİYASI (COLLABORATOR LICENSE) — 1.0
 
-Copyright (c) 2026, FreeLinX OS Project
+Copyright (c) 2026, Vugar Ahadli
+All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. İcazə
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Bu proqram təminatının və onunla əlaqəli sənədləşmənin (“Proqram təminatı”) surətini əldə edən hər bir şəxsə aşağıdakı şərtlər daxilində Proqram təminatından istifadə etmək, onu dəyişdirmək, birləşdirmək, dərc etmək, yaymaq, sublisenziya vermək və/və ya satmaq hüququ ödənişsiz verilir.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+Bu hüquqlar yalnız aşağıdakı şərtlərə əməl edildiyi təqdirdə qüvvədədir.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+2. Müəllif hüququ bildirişi
+
+Proqram təminatının və ya onun mühüm hissələrinin yenidən yayılması zamanı aşağıdakılar qorunmalıdır:
+
+* Orijinal müəllif hüququ bildirişi.
+* Bu lisenziyanın bütün şərtləri.
+* Zəmanətdən imtina haqqında bildiriş.
+
+Bu bildirişlər mənbə kodunun və ya ikili formada yayılan nüsxələrin sənədləşməsində və/və ya digər materiallarında saxlanılmalıdır.
+
+3. Əməkdaşlıq prinsipi
+
+Proqram təminatından istifadə edən, onu dəyişdirən və ya onun əsasında törəmə iş yaradan şəxslər müəlliflə əməkdaşlığa açıq olmağa təşviq edilir.
+
+Əməkdaşlıq dedikdə, səhvlərin bildirilməsi, düzəlişlərin təklif edilməsi, təkmilləşdirmələrin paylaşılması və ya layihənin inkişafına digər könüllü töhfələr nəzərdə tutula bilər.
+
+Bu bölmə, ayrıca yazılı müqavilə olmadıqda, istifadəçilərə müəlliflə əməkdaşlıq etmək, dəyişikliklərini açıq mənbə kimi yayımlamaq və ya töhfələrini müəllifə təqdim etmək üzrə məcburi öhdəlik yaratmır.
+
+4. Ticarət nişanları
+
+Müəllifin adı, ticarət nişanları və ya layihənin adı müəllifin əvvəlcədən yazılı icazəsi olmadan bu lisenziyanın təsdiqlənməsi və ya reklamı məqsədilə istifadə edilə bilməz.
+
+5. Zəmanətdən imtina
+
+PROQRAM TƏMİNATI “OLDUĞU KİMİ” TƏQDİM EDİLİR. AÇIQ VƏ YA DOLAYI HEÇ BİR ZƏMANƏT VERİLMİR. BURA SATIŞA YARARLILIQ, MÜƏYYƏN MƏQSƏDƏ UYĞUNLUQ VƏ HÜQUQ POZUNTUSUNUN OLMAMASI BARƏDƏ ZƏMANƏTLƏR DƏ DAXİLDİR, LAKİN BUNLARLA MƏHDUDLAŞMIR.
+
+MÜƏLLİF HEÇ BİR HALDA PROQRAM TƏMİNATININ İSTİFADƏSİNDƏN VƏ YA İSTİFADƏ EDİLƏ BİLMƏMƏSİNDƏN YARANAN BİRBAŞA, DOLAYI, TƏSADÜFİ, XÜSUSİ VƏ YA NƏTİCƏVİ ZƏRƏRLƏRƏ, O CÜMLƏDƏN MƏLUMAT İTKİSİNƏ, MƏNFƏƏT İTKİSİNƏ VƏ YA FƏALİYYƏTİN DAYANMASINA GÖRƏ MƏSULİYYƏT DAŞIMIR.
